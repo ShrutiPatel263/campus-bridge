@@ -15,7 +15,7 @@ connectDB().catch(err => {
 // CORS configuration to allow credentials and requests from frontend
 const allowedOrigins = process.env.ALLOWED_ORIGINS 
   ? process.env.ALLOWED_ORIGINS.split(',')
-  : ['http://localhost:5173', 'http://localhost:4173','https://campus-bridge-vgec.vercel.app'];
+  : ['http://localhost:5173', 'http://localhost:4173','https://campus-bridge-nine.vercel.app/'];
 
 const corsOptions = {
   origin: function (origin, callback) {
