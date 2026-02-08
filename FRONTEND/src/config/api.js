@@ -2,7 +2,7 @@
 // This file centralizes all API endpoint configuration
 // In production, VITE_API_BASE_URL should be set in environment variables
 
-const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'https://campusbridge-production.up.railway.app';;
+const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'https://campus-bridge-rufi.onrender.com';;
 
 export const API_ENDPOINTS = {
   // User endpoints
