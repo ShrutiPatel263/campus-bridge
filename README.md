@@ -60,9 +60,6 @@ CampusBridge is a **student-first platform** where:
 ## 📊 Real Impact
 
 - ✅ **10+ real students actively preparing**
-- 🏢 Companies covered: **TCS, Infosys, Wipro, Amazon** (and growing)
-- 💬 Actual student feedback:
-  > “They asked exactly the topics mentioned on CampusBridge.”
 
 This is **not**:
 - ❌ a demo  
